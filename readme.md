@@ -1,3 +1,5 @@
-<h1>Repositorio de Prueba de JIS</h1>;
+<h1>Repositorio de Prueba de JIS</h1>
 
-<p>Testo de Prueba en Repo JIS</p>;
+<h2>Pruebas de SubTitulo</h2>
+
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis iure hic, eaque quisquam omnis adipisci nemo id, repudiandae eveniet optio nam deleniti odio? Et quo molestias unde praesentium!</p>
